@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloDeb</string>
+    <string name="my_name">Debbie</string>
+    <string name="buttonShow">Show</string>
+    <string name="buttonHide">Hide</string>
+
+</resources>
